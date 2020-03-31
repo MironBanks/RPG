@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4263510887219117772}
   - component: {fileID: 6356490267031078799}
   - component: {fileID: 4876088709127140048}
+  - component: {fileID: 7397357972402518789}
   m_Layer: 0
   m_Name: Enymy
   m_TagString: Untagged
@@ -107,3 +108,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5628630d5090b43a5b3f909d653223c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &7397357972402518789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3036722451680229305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dda6423bcab5441c8d3022343529980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 20
